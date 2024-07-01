@@ -1,0 +1,17 @@
+{
+    "geode": "3.0.0",
+    "gd": {
+        "win": "2.206",
+        "android": "2.206"
+    },
+    "id": "obii-vault_brainrot",
+    "name": "Vault Brainrot",
+    "version": "v1.0.0",
+    "developer": "obii",
+	"description": "Pure brainrot... or not?",
+    "resources": {
+        "sprites": [
+            "resources/button_001.png"
+        ]
+    }
+}
